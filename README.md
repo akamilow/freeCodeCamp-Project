@@ -2,13 +2,14 @@
 
 <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/" traget="_blank">Click to see the Course</a>
 
+
 # Projects
 
-<a href="https://codepen.io/akamilow/pen/YzYMobp" traget="_blank">Survey Form</a><br>
-<a href="https://codepen.io/akamilow/pen/wvpRwbx" traget="_blank">Tribute Page</a><br>
-<a href="https://codepen.io/akamilow/pen/yLpWLdG" traget="_blank">Technical Documentation Page</a><br>
-<a href="https://codepen.io/akamilow/pen/gOoQzYN?editors=1100" traget="_blank">Product Landing Page</a><br>
-<a href="https://codepen.io/akamilow/pen/MWrdoYr" traget="_blank">Personal Portfolio Webpage</a><br>
+- [Survey Form](https://codepen.io/akamilow/pen/YzYMobp)
+- [Tribute Page](https://codepen.io/akamilow/pen/wvpRwbx)
+- [Technical Documentation Page](https://codepen.io/akamilow/pen/yLpWLdG)
+- [Product Landing Page](https://codepen.io/akamilow/pen/gOoQzYN?editors=1100)
+- [Personal Portfolio Webpage](https://codepen.io/akamilow/pen/MWrdoYr)
 
 
 ## Certificate
