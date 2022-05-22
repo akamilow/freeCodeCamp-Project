@@ -4,11 +4,11 @@
 
 # Projects
 
-<a href="https://codepen.io/akamilow/pen/YzYMobp" traget="_blank">Survey Form</a>
-<a href="https://codepen.io/akamilow/pen/wvpRwbx" traget="_blank">Tribute Page</a>
-<a href="https://codepen.io/akamilow/pen/yLpWLdG" traget="_blank">Technical Documentation Page</a>
-<a href="https://codepen.io/akamilow/pen/gOoQzYN?editors=1100" traget="_blank">Product Landing Page</a>
-<a href="https://codepen.io/akamilow/pen/MWrdoYr" traget="_blank">Personal Portfolio Webpage</a>
+<a href="https://codepen.io/akamilow/pen/YzYMobp" traget="_blank">Survey Form</a><br>
+<a href="https://codepen.io/akamilow/pen/wvpRwbx" traget="_blank">Tribute Page</a><br>
+<a href="https://codepen.io/akamilow/pen/yLpWLdG" traget="_blank">Technical Documentation Page</a><br>
+<a href="https://codepen.io/akamilow/pen/gOoQzYN?editors=1100" traget="_blank">Product Landing Page</a><br>
+<a href="https://codepen.io/akamilow/pen/MWrdoYr" traget="_blank">Personal Portfolio Webpage</a><br>
 
 
 ## Certificate
